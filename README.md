@@ -6,6 +6,13 @@ Single webpage displaying the hostname on a green background.
 
 `green_helloworld` is intended for testing with docker images. It is part of a collection I have made each with different background colours; useful for testing load balancing and routing.
 
+## Use
+
+Simply run
+```
+docker pull theyorkshiredev/green_helloworld
+```
+
 ## Build & Release Status
 
 ### Build
